@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:orientation="vertical"
+     android:id="@+id/relLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/search"
+            android:layout_width="56dp"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:src="@drawable/outline_search_black_24"
+            />
+    </LinearLayout>
+
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:tools="http://schemas.android.com/tools"
+     android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    app:menu="@menu/menu">
+
+    <include layout="@layout/content_main" />
+</android.support.v4.widget.SwipeRefreshLayout>
+
+    </LinearLayout>

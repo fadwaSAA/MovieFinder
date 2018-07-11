@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="viewBg">#f1f5f8</color>
+    <color name="movie_title">#4c4c4c</color>
+    <color name="white">#FFF</color>
+    <color name="streat_line">#D0D5D8</color>
+    <color name="colorPrimary">#74BC94</color>
+    <color name="colorPrimaryDark">#555959</color>
+    <color name="colorAccent">#009e9e</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="bg_login">#74BC94</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+     <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="black">#000000</color>
+    <color name="link_blue">#0000EE</color>
+    <color name="colorPrimary1">#8bdd8f</color>
+    <color name="colorPrimaryDark1">#388E3C</color>
+    <color name="colorAccen1t">#cb2e23</color>
+    <color name="colorFAB1">#2196F3</color>
+    <color name="colorFAB2">#E040FB</color>
+    <color name="dark_grey">#787878</color>
+
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="color">#b0d2ba</color>
+    <color name ="light_gray">#d3d3d3</color>
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#FF4081</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+</resources>
